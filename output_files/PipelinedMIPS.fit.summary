@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Jul  6 17:20:33 2025
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : PipelinedMIPS
+Top-level Entity Name : MIPS
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 7,094 / 114,480 ( 6 % )
+    Total combinational functions : 4,148 / 114,480 ( 4 % )
+    Dedicated logic registers : 5,549 / 114,480 ( 5 % )
+Total registers : 5549
+Total pins : 286 / 529 ( 54 % )
+Total virtual pins : 0
+Total memory bits : 1,183,744 / 3,981,312 ( 30 % )
+Embedded Multiplier 9-bit elements : 2 / 532 ( < 1 % )
+Total PLLs : 1 / 4 ( 25 % )
